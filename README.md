@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ilia 👋
 
-<!--
-**IlMalakhov/IlMalakhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student in **Business Analytics and Big Data** at GSoM, but I actually started out with a Bachelor's in Linguistics. My love for languages ended up turning into a fascination with coding and data, which I'm exploring every day.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguistics Graduate** 📚
+  
+  Studied how humans communicate, analyzed language data and loved every minute of it.
+  
+- **Aspiring Analyst** 👨‍💻
+
+  Currently diving into **data**, **statistics** and **management**.
+
+- **Python** 🐍
+
+  Practicing my coding skills, especially in Python. Slowly but surely, I'm picking up more every day!
+
+- **Eager to Grow** 🌱
+  
+  Always on the lookout for new concepts and tech to explore.
+
+- **Music Enthusiast** 🎶
+  
+  I tinker with piano and music production in my spare time—nothing fancy, just something to unwind.
+
+## What I’m Up To 
+- Taking an additional course on **ML basics** (a lot of math and a lot of mind-blowing functionality).
+- Working on **small projects** to sharpen my data analysis skills and make something useful.
+- Reading up on best practices for **data visualization** and **reporting**.
+
+## Connect With Me ✉️
+Mainly on [Telegram](https://t.me/nuclearsalmon)
+
+> *Thanks for stopping by...*
