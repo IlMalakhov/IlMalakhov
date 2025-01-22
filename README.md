@@ -14,7 +14,7 @@ I'm a Master's student in **Business Analytics and Big Data** at GSoM, but I act
 
 - **Python** 🐍
 
-  Practicing my coding skills, especially in Python. Slowly but surely, I'm picking up more every day!
+  Practicing my coding skills, especially in Python.
 
 - **Eager to Grow** 🌱
   
