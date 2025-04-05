@@ -22,10 +22,10 @@ I'm a Master's student in **Business Analytics and Big Data** at GSoM, but I act
 
 - **Music Enthusiast** 🎶
   
-  I tinker with piano and music production in my spare time—nothing fancy, just something to unwind.
+  I tinker with piano and music production in my spare time, nothing fancy, just something to unwind.
 
 ## What I’m Up To 
-- Taking an additional course on **ML basics** (a lot of math and a lot of mind-blowing functionality).
+- Taking an additional courses on **ML basics** (a lot of math and a lot of mind-blowing functionality).
 - Working on **small projects** to sharpen my data analysis skills and make something useful.
 - Reading up on best practices for **data visualization** and **reporting**.
 
