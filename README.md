@@ -1,5 +1,7 @@
 ![](./header.svg)
 
 <div align="center">
-  <p>connect with me <a href="https://t.me/nuclearsalmon">here</a></p>
+
+[![](https://img.shields.io/badge/%40nuclearsalmon-D8CBFE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nuclearsalmon)
+
 </div>
